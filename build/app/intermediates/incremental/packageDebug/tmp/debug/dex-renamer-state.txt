@@ -1,0 +1,4 @@
+#Mon Dec 23 21:09:05 EAT 2019
+base.0=/home/jodeveloper/Desktop/Mobile/flutter/flutter-projects/coursatk_provider/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
